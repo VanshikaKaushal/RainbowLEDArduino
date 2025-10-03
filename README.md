@@ -5,8 +5,8 @@ This repository contains my Arduino mini projects. Each project explores differe
 ---
 
 ## 📂 Mini Projects Overview
-1. [Rainbow LED Light]  
-2. [Smart Light]]  
+1. Rainbow LED Light  
+2. Smart Light
 
 
 ---
